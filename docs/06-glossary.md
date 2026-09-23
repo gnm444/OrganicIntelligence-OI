@@ -19,6 +19,7 @@
 | Audit trail | నిర్ణయ చరిత్ర / ఆడిట్ ట్రయిల్ | A transparent record of inputs, reasoning, changes, and outcomes. |
 | Ecological balance | పర్యావరణ సమతుల్యత | Considering effects across the wider living system. |
 | Responsible scale | బాధ్యతాయుత విస్తరణ | Growing a system only when governance, safety, and maintenance are ready. |
+| Grace | అనుగ్రహం | A lived or spiritual sense of life-giving possibility beyond personal control; a provisional OI concept, not a measured technical property. |
 
 ## Translation note
 

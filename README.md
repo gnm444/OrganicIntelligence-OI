@@ -18,6 +18,7 @@ This repository organizes concepts, questions, design principles, and experiment
 4. [Applications](docs/04-applications.md) — agriculture, healthcare, cities, education, organizations, and robotics.
 5. [Research roadmap](docs/05-research-roadmap.md) — questions, experiments, metrics, and safeguards.
 6. [Bilingual glossary](docs/06-glossary.md) — shared English–Telugu terminology.
+7. [Concept series](docs/concepts/README.md) — numbered OI concepts, beginning with Grace.
 
 ## Central proposition
 

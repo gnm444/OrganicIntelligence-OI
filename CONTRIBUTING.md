@@ -10,6 +10,7 @@ Add ideas to the appropriate document instead of appending everything to the REA
 - real-world domain → `docs/04-applications.md`
 - evidence, experiments, metrics, or ethics → `docs/05-research-roadmap.md`
 - terminology → `docs/06-glossary.md`
+- numbered OI concepts → `docs/concepts/README.md` and `docs/concepts/NN-concept-name.md`
 
 ## Bilingual writing pattern
 
