@@ -19,12 +19,20 @@ This repository organizes concepts, questions, design principles, and experiment
 5. [Research roadmap](docs/05-research-roadmap.md) — questions, experiments, metrics, and safeguards.
 6. [Bilingual glossary](docs/06-glossary.md) — shared English–Telugu terminology.
 7. [Concept series](docs/concepts/README.md) — numbered OI concepts, beginning with Grace.
+8. [Author](AUTHOR.md) — who created and maintains this work.
+9. [Reuse and permission policy](REUSE-PERMISSION.md) — written permission and royalty requirements.
 
 ## Central proposition
 
 > Intelligence is not only prediction or optimization. It is the capacity to sense context, learn through experience, maintain identity, respond ethically, repair damage, and remain in relationship with a changing environment.
 
 > మేధస్సు అనేది కేవలం అంచనా లేదా ఆప్టిమైజేషన్ కాదు. సందర్భాన్ని గ్రహించడం, అనుభవం ద్వారా నేర్చుకోవడం, స్వరూపాన్ని కాపాడుకోవడం, నైతికంగా స్పందించడం, నష్టాన్ని సరిచేయడం, మారుతున్న పరిసరాలతో సంబంధంలో ఉండడం కూడా మేధస్సులో భాగాలే.
+
+## Author
+
+Organic Intelligence and this repository were created by [Narasimha Murthy Gonapa](AUTHOR.md). Contact: [gnm444@gmail.com](mailto:gnm444@gmail.com) | [+91 91779 01022](tel:+919177901022) | [LinkedIn](https://www.linkedin.com/in/narasimha-gonapa/).
+
+This work is all rights reserved. Do not reuse, modify, translate, publish, commercialize, or use it for AI training without prior written permission. Approved commercial use may require royalties. See [LICENSE.md](LICENSE.md) and [REUSE-PERMISSION.md](REUSE-PERMISSION.md).
 
 ## Contributions
 
