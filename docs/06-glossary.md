@@ -20,6 +20,10 @@
 | Ecological balance | పర్యావరణ సమతుల్యత | Considering effects across the wider living system. |
 | Responsible scale | బాధ్యతాయుత విస్తరణ | Growing a system only when governance, safety, and maintenance are ready. |
 | Grace | అనుగ్రహం | A lived or spiritual sense of life-giving possibility beyond personal control; a provisional OI concept, not a measured technical property. |
+| Karma / Karman | కర్మ | Intentional action and its moral consequences across relationships, living systems, and—within rebirth-oriented traditions—future lives; a provisional OI concept, not a measured AI property. |
+| Samsara | సంసారం | The cycle of birth, death, and rebirth in traditions that use this concept. |
+| Rebirth | పునర్జన్మ | A philosophical or religious account of continuity beyond one bodily life; not presented here as scientifically verified. |
+| Ripple effect | ప్రభావ తరంగం | The direct and indirect consequences an action creates across a person, relationships, society, ecology, and future generations. |
 
 ## Translation note
 
