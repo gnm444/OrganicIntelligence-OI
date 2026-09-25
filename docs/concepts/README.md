@@ -10,6 +10,7 @@ This category records qualities that, in the current OI framework, are associate
 |---|---|---|
 | 1 | [Grace / అనుగ్రహం](01-grace.md) | Provisional living-experience boundary |
 | 2 | [Karma / కర్మ](02-karma.md) | Provisional moral-continuity boundary |
+| 3 | [Aparigraha / అపరిగ్రహం](03-aparigraha.md) | Provisional non-possessiveness boundary |
 
 ## How to add the next concept
 

@@ -24,6 +24,9 @@
 | Samsara | సంసారం | The cycle of birth, death, and rebirth in traditions that use this concept. |
 | Rebirth | పునర్జన్మ | A philosophical or religious account of continuity beyond one bodily life; not presented here as scientifically verified. |
 | Ripple effect | ప్రభావ తరంగం | The direct and indirect consequences an action creates across a person, relationships, society, ecology, and future generations. |
+| Aparigraha | అపరిగ్రహం | Non-possessiveness, non-hoarding, and responsible enoughness; a provisional OI concept, not a measured software property. |
+| Enoughness | సరిపడినంత జీవనం | Choosing what is sufficient while recognizing the needs and rights of other living beings and future generations. |
+| Non-extractive design | దోపిడీ లేని రూపకల్పన | Designing systems that limit unnecessary extraction of data, resources, attention, labour, and ecological capacity. |
 
 ## Translation note
 
